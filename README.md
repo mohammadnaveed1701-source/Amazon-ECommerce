@@ -1,7 +1,7 @@
 # Amazon-ECommerce
-# Amazon-ECommerce A pixel-perfect Amazon Homepage Clone built using HTML5 and CSS3, featuring a responsive layout, modern UI design, navigation bar, product grids, and a detailed footer — created for frontend development practice.
+# Amazon-ECommerce A pixel-perfect Amazon Homepage built using HTML5 and CSS3, featuring a responsive layout, modern UI design, navigation bar, product grids, and a detailed footer — created for frontend development practice.
 <br>
-# 🛒 Amazon Clone – Frontend Web Project
+# 🛒 Amazon ECommerce – Frontend Web Project
 
 ![HTML](https://img.shields.io/badge/HTML5-Structure-orange)
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Project-Complete-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A **pixel-perfect Amazon Homepage Clone** built using **pure HTML5 and CSS3**. This project replicates the user interface and layout of the Amazon homepage with professional structure, responsive design, product grids, navigation system, and a detailed multi-column footer.
+A **pixel-perfect Amazon Homepage** built using **pure HTML5 and CSS3**. This project replicates the user interface and layout of the Amazon homepage with professional structure, responsive design, product grids, navigation system, and a detailed multi-column footer.
 
 > ⚠️ This project is created strictly for **educational and portfolio demonstration purposes only**.
 

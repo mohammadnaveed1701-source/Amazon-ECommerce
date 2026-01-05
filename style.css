@@ -19,7 +19,7 @@
     color: #2162a1;
 }
 .logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -144,7 +144,7 @@ span {
     margin-right: 10px;
 }
 .home-page {
-    background-image: url("home_page2.jpg");
+    background-image: url("images/home_page2.jpg");
     height: 600px;
     background-size: cover;
     display: flex;

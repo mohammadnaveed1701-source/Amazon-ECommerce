@@ -1,85 +1,68 @@
+<<<<<<< HEAD
 # Amazon-ECommerce
 # Amazon-ECommerce A pixel-perfect Amazon Homepage built using HTML5 and CSS3, featuring a responsive layout, modern UI design, navigation bar, product grids, and a detailed footer — created for frontend development practice.
 <br>
 # 🛒 Amazon ECommerce – Frontend Web Project
+=======
+Amazon-ECommerce
+>>>>>>> a839da7 (modified readme)
 
-![HTML](https://img.shields.io/badge/HTML5-Structure-orange)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
-![Status](https://img.shields.io/badge/Project-Complete-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+A clean and responsive **Amazon Homepage /** built using **HTML5 and CSS3**. This project focuses on recreating the layout and structure of the Amazon homepage to practice real-world frontend UI development and responsive design techniques.
 
+<<<<<<< HEAD
 A **pixel-perfect Amazon Homepage** built using **pure HTML5 and CSS3**. This project replicates the user interface and layout of the Amazon homepage with professional structure, responsive design, product grids, navigation system, and a detailed multi-column footer.
 
 > ⚠️ This project is created strictly for **educational and portfolio demonstration purposes only**.
+=======
+> This project is created for **learning, practice, and portfolio use only**.
+>>>>>>> a839da7 (modified readme)
 
 ---
 
 ## 📌 Project Overview
 
-This project demonstrates how a large-scale **eCommerce homepage UI** can be built using only **HTML and CSS**, without JavaScript or any frontend framework. It focuses on:
+This is a **static frontend project** that demonstrates how a large e-commerce homepage can be structured using only HTML and CSS, without JavaScript or any frameworks.
 
-- Professional UI layout design  
-- Real-world website structuring  
-- Flexbox-based responsiveness  
-- Accessibility-friendly markup  
-- Clean and maintainable CSS  
-
-It is ideal for **students, beginners, and frontend developers** who want real-world UI practice.
+The project focuses on:
+- Proper HTML structure
+- Responsive layout using Flexbox
+- Clean and maintainable CSS
+- Real-world UI sectioning
 
 ---
 
-## 📊 Project Quality Metrics (Visual)
+## ✨ Features
 
-| Category | Score |
-|----------|--------|
-| UI Accuracy | ██████████ 95% |
-| Responsiveness | █████████░ 90% |
-| Accessibility | ████████░░ 80% |
-| Performance | █████████░ 90% |
-| Code Readability | ██████████ 100% |
-
----
-
-## ✨ Feature Highlights
-
-| Feature | Status |
-|--------|--------|
-| Amazon-style Navbar | ✅ |
-| Product Search Bar | ✅ |
-| Language & Location Selector | ✅ |
-| Multi-Category Product Sections | ✅ |
-| Deals & Offers Sections | ✅ |
-| International Product Sections | ✅ |
-| Multi-column Footer | ✅ |
-| Font Awesome Icons | ✅ |
-| Responsive Layout | ✅ |
-| Hover Effects & UI Enhancements | ✅ |
+- Responsive navigation bar with search box  
+- Product category and deal sections  
+- Multi-row product grid layout  
+- International and regional product sections  
+- Amazon-style multi-column footer  
+- Clean hover effects and UI spacing  
+- Mobile-friendly layout using Flexbox  
 
 ---
 
 ## 🛠️ Technology Stack
 
-| Technology | Purpose |
-|------------|---------|
-| **HTML5** | Page Structure |
-| **CSS3** | Styling & Layout |
-| **Flexbox** | Responsive Layout |
-| **Font Awesome** | Icons |
-| **Media Queries** | Mobile Responsiveness |
+| Technology | Usage |
+|------------|--------|
+| HTML5 | Page structure |
+| CSS3 | Styling and layout |
+| Flexbox | Responsive layout |
+| Font Awesome | Icons |
 
 ---
 
-## 📂 Project Folder Structure
+## 📂 Project Structure
 
 Amazon-Clone/
-│
 ├── index.html
 ├── style.css
 ├── README.md
 ├── LICENSE
-│
 └── images/
+<<<<<<< HEAD
     ├── amazon_logo.png
     ├── home_page2.jpg
     ├── america.png
@@ -229,3 +212,9 @@ Amazon-Clone/
     ├── img277.jpg
     ├── img278.jpg
     ├── img280.jpg
+=======
+├── amazon_logo.png
+├── home_page2.jpg
+├── america.png
+└── product and category images
+>>>>>>> a839da7 (modified readme)

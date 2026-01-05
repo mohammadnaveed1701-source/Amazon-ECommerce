@@ -1,21 +1,13 @@
-<<<<<<< HEAD
-# Amazon-ECommerce
+ # Amazon-ECommerce
 # Amazon-ECommerce A pixel-perfect Amazon Homepage built using HTML5 and CSS3, featuring a responsive layout, modern UI design, navigation bar, product grids, and a detailed footer — created for frontend development practice.
 <br>
-# 🛒 Amazon ECommerce – Frontend Web Project
-=======
-Amazon-ECommerce
->>>>>>> a839da7 (modified readme)
+ 🛒 Amazon ECommerce – Frontend Web Project
 
 A clean and responsive **Amazon Homepage /** built using **HTML5 and CSS3**. This project focuses on recreating the layout and structure of the Amazon homepage to practice real-world frontend UI development and responsive design techniques.
 
-<<<<<<< HEAD
 A **pixel-perfect Amazon Homepage** built using **pure HTML5 and CSS3**. This project replicates the user interface and layout of the Amazon homepage with professional structure, responsive design, product grids, navigation system, and a detailed multi-column footer.
 
 > ⚠️ This project is created strictly for **educational and portfolio demonstration purposes only**.
-=======
-> This project is created for **learning, practice, and portfolio use only**.
->>>>>>> a839da7 (modified readme)
 
 ---
 
@@ -62,7 +54,6 @@ Amazon-Clone/
 ├── README.md
 ├── LICENSE
 └── images/
-<<<<<<< HEAD
     ├── amazon_logo.png
     ├── home_page2.jpg
     ├── america.png
@@ -212,9 +203,3 @@ Amazon-Clone/
     ├── img277.jpg
     ├── img278.jpg
     ├── img280.jpg
-=======
-├── amazon_logo.png
-├── home_page2.jpg
-├── america.png
-└── product and category images
->>>>>>> a839da7 (modified readme)

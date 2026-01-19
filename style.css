@@ -601,3 +601,152 @@ footer {
 .pages a {
     color:#dddddd
 }
+@media (max-width: 1024px) {
+    .navbar {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 10px;
+    }
+    .nav-search {
+        order: 3;
+        width: 100%;
+        max-width: none;
+        margin-top: 10px;
+    }
+    .shop-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .box {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+    .shop-section2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .boxes {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        height: auto;
+        align-items: flex-start;
+    }
+    .nav-logo {
+        width: 100px;
+        height: 40px;
+    }
+    .logo {
+        height: 40px;
+    }
+    .nav-address {
+        display: none; 
+    }
+    .nav-search {
+        width: 100%;
+        height: 35px;
+        margin: 10px 0;
+    }
+    .search-select {
+        width: 60px;
+    }
+    .search-input {
+        font-size: 0.9rem;
+    }
+    .thing {
+        display: none; 
+    }
+    .nav-signin, .nav-returns, .nav-cart {
+        font-size: 0.8rem;
+    }
+    .nav-panel {
+        flex-direction: column;
+        text-align: center;
+    }
+    .panel-ops {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    .shop-section, .shop-section2 {
+        padding: 10px;
+    }
+    .box, .boxes {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .img1 img, .img2 img {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+        object-fit: contain;
+    }
+    .img2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .img2 img {
+        flex: 0 0 48%; /* Two images per row */
+        margin-bottom: 10px;
+    }
+    .home-msg {
+        font-size: 0.9rem;
+        text-align: center;
+    }
+    footer {
+        text-align: center;
+    }
+    .foot-panel1, .foot-panel2, .foot-panel3, .foot-panel4, .foot-panel5 {
+        padding: 10px;
+    }
+    .foot-panel2 ul {
+        margin: 10px 0;
+    }
+    .pages {
+        flex-wrap: wrap;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .navbar {
+        padding: 5px;
+    }
+    .nav-logo {
+        width: 80px;
+        height: 30px;
+    }
+    .logo {
+        height: 30px;
+    }
+    .nav-search {
+        height: 30px;
+    }
+    .search-select {
+        width: 50px;
+        font-size: 0.8rem;
+    }
+    .search-input {
+        font-size: 0.8rem;
+    }
+    .nav-signin p, .nav-returns p, .nav-cart {
+        font-size: 0.7rem;
+    }
+    .panel-ops p {
+        font-size: 0.9rem;
+    }
+    .box p, .boxes p {
+        font-size: 0.9rem;
+    }
+    .a1 a, .a2 a {
+        font-size: 0.8rem;
+    }
+}
